@@ -1,8 +1,8 @@
 # Ruleta hecha con swing en Java
-[![ruleta](https://imgur.com/CJNWQxf)]
+![](https://i.imgur.com/CJNWQxf.png)
 
 ### Depostiar
-[![depositar](https://imgur.com/YLDjRoQ)]
+![](https://i.imgur.com/YLDjRoQ.png)
 
 ### Estadisticas
-[![estadisticas](https://imgur.com/32gIod0)]
+![](https://i.imgur.com/32gIod0.png)
