@@ -1,7 +1,7 @@
 # Ruleta hecha con swing en Java
 ![](https://i.imgur.com/CJNWQxf.png)
 
-### Depostiar
+### Depositar
 ![](https://i.imgur.com/YLDjRoQ.png)
 
 ### Estadisticas
